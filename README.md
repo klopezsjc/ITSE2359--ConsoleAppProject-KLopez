@@ -1,6 +1,6 @@
 # ITSE2359--ConsoleAppProject-KLopez
 
-Console App Character Select Screen 
+Console App Character Create Screen 
 -How to Run the Program-
 
 Open the file in VS Code, press Ctrl+Shift+P, then click the "Run and Debug" button. Or you can also just compile it in the terminal with g++ main.cpp -o main and then run with ./main 
